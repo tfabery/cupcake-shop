@@ -1,0 +1,38 @@
+html{
+
+}
+body {
+  background-image: url("../images/icecream_background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  background-color: ;
+}
+
+.container {
+  margin: 0 10% 0 10%;
+}
+
+p {
+  font-size: 20px;
+}
+
+.intro {
+  max-width: 50%;
+  margin-left: 25%;
+  font-style: italic;
+}
+
+.cupcake1 img{
+  width: 25%;
+  display: inline-block;
+  float: right;
+}
+
+.classy {
+  font-family: fantasy;
+}
+
+.list {
+  text-align: left;
+}
